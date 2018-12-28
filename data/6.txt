@@ -1,0 +1,8 @@
+Begin 6 th iteration
+add Class,M0P1,BIC:-157583.5,MIT:54.54155.
+nothing to do!BIC:-157579.6,MIT:50.03128
+nothing to do!BIC:-157583.5,MIT:54.54155
+nothing to do!BIC:-157579.6,MIT:50.03128
+add M0P2,M0P1,BIC:-157590.6,MIT:49.63704.
+Due to individual 3 has not been updated for 4 times, we have to delete 3 th individual and generate a new one
+M0P2,M0P1 Class,M0P1 
