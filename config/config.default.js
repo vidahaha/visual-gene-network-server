@@ -10,7 +10,7 @@ module.exports = appInfo => {
     csrf: {
       enable: false,
     },
-    domainWhiteList: [ 'http://localhost:8080', 'http://localhost:3000' ],
+    domainWhiteList: [ 'http://localhost:8080', 'http://localhost:3000', 'http://www.vidahaha.top' ],
   };
 
   config.cors = {
