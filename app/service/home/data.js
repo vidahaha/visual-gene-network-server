@@ -77,7 +77,7 @@ class DataService extends Service {
 							bic,
 							mit						
 						})
-					} else if ( res_2 && res.length === 3 ) {
+					} else if ( res_2 && res_2[1] !== 'Individual' && res.length === 3 ) {
 						type = res_2[1];
 						edges = res_2[2].split(',');
 						curData.push({

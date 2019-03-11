@@ -1,0 +1,10 @@
+Begin 23 th iteration
+drop Class,N97,BIC:-155057.6,MIT:832.5225.
+add N25,N2,BIC:-155128.2,MIT:826.6065.
+nothing to do!BIC:-154952.5,MIT:887.8089
+drop Class,N27,BIC:-155165,MIT:773.5352.
+drop N84,N79,BIC:-155078.1,MIT:815.0975.
+Individual 1 is selected and update it!drop Class,N37,BIC:-155051,MIT:836.5381.
+Individual 4 is selected and update it!drop N84,Class,BIC:-155104.3,MIT:810.4363.
+Due to individual 3 has not been updated for 4 times, we have to delete 3 th individual and generate a new one
+

@@ -1,0 +1,10 @@
+Begin 21 th iteration
+drop N81,N27,BIC:-155085.4,MIT:821.9665.
+nothing to do!BIC:-154959.9,MIT:882.2466
+nothing to do!BIC:-154952.5,MIT:887.8089
+drop Class,N37,BIC:-155566.3,MIT:-89.38928.
+drop Class,N54,BIC:-155126.9,MIT:798.606.
+Individual 3 is selected and update it!nothing to do!BIC:-154952.5,MIT:887.8089
+Individual 5 is selected and update it!drop Class,N37,BIC:-155120.2,MIT:802.6216.
+Due to individual 2 has not been updated for 4 times, we have to delete 2 th individual and generate a new one
+

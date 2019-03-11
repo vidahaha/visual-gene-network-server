@@ -1,0 +1,7 @@
+Begin 12 th iteration
+drop Class,N79,BIC:-154989.3,MIT:883.7681.
+drop Class,N54,BIC:-154999,MIT:858.1033.
+drop Class,N67,BIC:-155017.1,MIT:855.7247.
+drop N77,N49,BIC:-155005.2,MIT:885.2241.
+drop Class,N69,BIC:-154987.4,MIT:875.8795.
+Individual 5 is selected and update it!drop Class,N64,BIC:-154980.2,MIT:881.0664.

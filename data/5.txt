@@ -1,8 +1,8 @@
 Begin 5 th iteration
-drop M0P2,Class,BIC:-157599.2,MIT:-1.090773.
-drop M0P2,M0P1,BIC:-157579.6,MIT:50.03128.
-nothing to do!BIC:-157583.5,MIT:54.54155
-nothing to do!BIC:-157579.6,MIT:50.03128
-nothing to do!BIC:-157583.5,MIT:54.54155
-Due to individual 5 has not been updated for 4 times, we have to delete 5 th individual and generate a new one
-M0P2,Class Class,M0P1 
+drop Class,N64,BIC:-155057,MIT:833.2445.
+reverse N68,N39,BIC:-155098.8,MIT:800.5879.
+drop N84,N79,BIC:-155077.9,MIT:822.0377.
+drop Class,N37,BIC:-155064.5,MIT:850.6756.
+drop M0P2,M0P1,BIC:-155069.5,MIT:841.3769.
+Individual 2 is selected and update it!drop Class,N37,BIC:-155092.2,MIT:804.6035.
+Individual 4 is selected and update it!drop Class,N27,BIC:-155057.8,MIT:854.8697.

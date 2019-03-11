@@ -1,0 +1,9 @@
+Begin 19 th iteration
+nothing to do!BIC:-154972,MIT:890.7276
+nothing to do!BIC:-154959.9,MIT:882.2466
+drop Class,N56,BIC:-154952.5,MIT:887.8089.
+nothing to do!BIC:-154986.8,MIT:894.2802
+add Class,M0P1,BIC:-155139.9,MIT:790.8731.
+Individual 2 is selected and update it!nothing to do!BIC:-154959.9,MIT:882.2466
+Due to individual 1 has not been updated for 4 times, we have to delete 1 th individual and generate a new one
+

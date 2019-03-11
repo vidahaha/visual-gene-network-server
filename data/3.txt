@@ -1,9 +1,7 @@
 Begin 3 th iteration
-nothing to do!BIC:-157583.5,MIT:54.54155
-nothing to do!BIC:-157583.5,MIT:54.54155
-nothing to do!BIC:-157583.5,MIT:54.54155
-nothing to do!BIC:-157579.6,MIT:50.03128
-nothing to do!BIC:-157583.5,MIT:54.54155
-Individual 1 is selected and update it!nothing to do!BIC:-157583.5,MIT:54.54155
-Due to individual 2 has not been updated for 4 times, we have to delete 2 th individual and generate a new one
-M0P2,M0P1 M0P2,Class 
+drop N77,N49,BIC:-155085,MIT:822.2832.
+drop Class,N26,BIC:-155128.1,MIT:781.3137.
+drop Class,N39,BIC:-155100.1,MIT:809.7981.
+drop N62,N38,BIC:-155091.2,MIT:830.6721.
+drop Class,N90,BIC:-155090.8,MIT:825.0123.
+Individual 4 is selected and update it!drop N84,Class,BIC:-155084,MIT:835.9476.

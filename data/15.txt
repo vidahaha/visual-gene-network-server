@@ -1,0 +1,7 @@
+Begin 15 th iteration
+drop Class,N67,BIC:-154972,MIT:890.7276.
+drop Class,N84,BIC:-154983.7,MIT:874.0621.
+drop Class,N97,BIC:-154980.3,MIT:869.1267.
+drop Class,N90,BIC:-154986.8,MIT:894.2802.
+nothing to do!BIC:-154966.9,MIT:889.1151
+Individual 5 is selected and update it!nothing to do!BIC:-154966.9,MIT:889.1151

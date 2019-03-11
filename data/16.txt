@@ -1,0 +1,7 @@
+Begin 16 th iteration
+nothing to do!BIC:-154972,MIT:890.7276
+drop N82,N11,BIC:-154971.6,MIT:877.3409.
+drop Class,N54,BIC:-154972.7,MIT:875.1056.
+nothing to do!BIC:-154986.8,MIT:894.2802
+nothing to do!BIC:-154966.9,MIT:889.1151
+Individual 1 is selected and update it!nothing to do!BIC:-154972,MIT:890.7276

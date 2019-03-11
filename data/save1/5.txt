@@ -1,0 +1,8 @@
+Begin 5 th iteration
+drop M0P2,Class,BIC:-157599.2,MIT:-1.090773.
+drop M0P2,M0P1,BIC:-157579.6,MIT:50.03128.
+nothing to do!BIC:-157583.5,MIT:54.54155
+nothing to do!BIC:-157579.6,MIT:50.03128
+nothing to do!BIC:-157583.5,MIT:54.54155
+Due to individual 5 has not been updated for 4 times, we have to delete 5 th individual and generate a new one
+M0P2,Class Class,M0P1 

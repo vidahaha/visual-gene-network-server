@@ -13,6 +13,11 @@ class HomeController extends Controller {
     const data = await ctx.service.home.data.handleData();    
     this.ctx.body = data
   }
+  async upload() {
+    const { ctx } = this;
+    const res = await ctx.service.home.file.saveFile( ctx.request.body );    
+    
+  }
 }
 
 module.exports = HomeController;

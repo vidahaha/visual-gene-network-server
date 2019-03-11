@@ -1,0 +1,8 @@
+Begin 10 th iteration
+add N2,N25,BIC:-155016,MIT:867.1939.
+drop Class,N27,BIC:-155019.5,MIT:844.6438.
+drop N77,N49,BIC:-155029.5,MIT:849.4154.
+drop Class,N56,BIC:-155025.2,MIT:875.246.
+drop Class,N26,BIC:-155007.2,MIT:866.3693.
+Individual 1 is selected and update it!drop Class,N49,BIC:-155009.3,MIT:871.4121.
+Individual 2 is selected and update it!drop Class,N64,BIC:-155012.3,MIT:849.8307.

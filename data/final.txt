@@ -1,2 +1,2 @@
-Finally, the best is 1 th individual in 1 iteration whose BIC score is -157583.5 and MIT score is 54.54155 
-M0P2,M0P1 Class,M0P1 
+Finally, the best is 3 th individual in 19 iteration whose BIC score is -154952.5 and MIT score is 887.8089 
+N2,N25 N63,N0 N80,N15 N84,N68 M0P1,Class M0P2,Class 

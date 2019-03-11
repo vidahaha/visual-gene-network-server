@@ -1,8 +1,6 @@
 Begin 1 th iteration
-nothing to do!BIC:-157583.5,MIT:54.54155
-nothing to do!BIC:-157583.5,MIT:54.54155
-nothing to do!BIC:-157583.5,MIT:54.54155
-reverse Class,M0P1,BIC:-157579.6,MIT:50.03128.
-nothing to do!BIC:-157583.5,MIT:54.54155
-Individual 2 is selected and update it!nothing to do!BIC:-157583.5,MIT:54.54155
-Individual 4 is selected and update it!nothing to do!BIC:-157579.6,MIT:50.03128
+reverse N84,Class,BIC:-155131.8,MIT:800.596.
+add M0P2,Class,BIC:-155187.6,MIT:746.7764.
+add M0P2,Class,BIC:-155174.9,MIT:769.0031.
+reverse M0P1,Class,BIC:-155122.9,MIT:812.4561.
+add M0P1,Class,BIC:-155119.4,MIT:813.0064.

@@ -1,8 +1,8 @@
 Begin 6 th iteration
-add Class,M0P1,BIC:-157583.5,MIT:54.54155.
-nothing to do!BIC:-157579.6,MIT:50.03128
-nothing to do!BIC:-157583.5,MIT:54.54155
-nothing to do!BIC:-157579.6,MIT:50.03128
-add M0P2,M0P1,BIC:-157590.6,MIT:49.63704.
-Due to individual 3 has not been updated for 4 times, we have to delete 3 th individual and generate a new one
-M0P2,M0P1 Class,M0P1 
+drop Class,N84,BIC:-155049.7,MIT:838.52.
+drop N81,N27,BIC:-155069.1,MIT:814.9157.
+drop Class,N45,BIC:-155070.4,MIT:827.8631.
+add N2,N25,BIC:-155056.5,MIT:861.3349.
+drop N82,N11,BIC:-155057.4,MIT:844.6557.
+Individual 2 is selected and update it!drop Class,N69,BIC:-155061.8,MIT:820.2734.
+Individual 5 is selected and update it!drop Class,N45,BIC:-155049.8,MIT:850.4811.
